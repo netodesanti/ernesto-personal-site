@@ -1,6 +1,6 @@
 .row--banner{
   background-color: #626e6d;
-  background-image: url(../img/banner-small.jpg);
+  background-image: url(../img/banner-logo-small.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -8,7 +8,7 @@
 
 @media (min-width: 38em) {
   .row--banner{
-    background-image: url(../img/banner.jpg);
+    background-image: url(../img/banner-logo.jpg);
   }
 }
 
